@@ -441,7 +441,7 @@ a:hover{
 }
 
 /* Estilo para o botão de enviar */
-.form-contato input[type="button"] {
+.form-contato input[type="submit"] {
   background-color: #007BFF; /* Cor do botão azul */
   color: white;
   border: none;
